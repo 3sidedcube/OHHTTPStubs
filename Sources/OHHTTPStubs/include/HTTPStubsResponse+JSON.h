@@ -23,8 +23,8 @@
  ***********************************************************************************/
 
 
-#import "HTTPStubsResponse.h"
-#import "Compatibility.h"
+#import <OHHTTPStubs/HTTPStubsResponse.h>
+#import <OHHTTPStubs/Compatibility.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

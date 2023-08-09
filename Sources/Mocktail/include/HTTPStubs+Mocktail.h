@@ -25,8 +25,8 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 
-#import "HTTPStubs.h"
-#import "Compatibility.h"
+#import <OHHTTPStubs/HTTPStubs.h>
+#import <OHHTTPStubs/Compatibility.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

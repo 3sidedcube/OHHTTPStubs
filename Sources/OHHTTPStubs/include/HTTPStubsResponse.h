@@ -28,7 +28,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "Compatibility.h"
+#import <OHHTTPStubs/Compatibility.h>
 
 ////////////////////////////////////////////////////////////////////////////////
 #pragma mark - Defines & Constants
